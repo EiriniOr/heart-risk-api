@@ -1,5 +1,7 @@
 # Heart Disease Risk Prediction API
 
+> 📁 Part of my portfolio: [see this project and more →](https://eirini-portfolio-aer3.vercel.app/?utm_source=github&utm_medium=readme&utm_campaign=heart-risk-api#story/heart-disease-risk-prediction-api)
+
 A simple end-to-end machine learning project that predicts the risk of heart disease using clinical features.  
 The model is trained in Python using scikit-learn and served through a FastAPI application.
 
